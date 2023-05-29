@@ -5,3 +5,6 @@ function multiply (a,b) {
 if (x >0){
   console.log ("Positive number");
   }
+else{
+
+}
