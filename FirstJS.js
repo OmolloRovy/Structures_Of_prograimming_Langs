@@ -9,3 +9,4 @@ else{
 console.log("Negative Number");
 }
 var result= multiply(x*2);
+console.log("result",result);
