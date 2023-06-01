@@ -22,7 +22,8 @@ if (x > 0) { // If statement
 }
 
 // Contextual Structure
-var result = multiply(x, 2); // Calling the multiply function with arguments
+var result = multiply(x, 2); 
+// Calling the multiply function with arguments
 console.log("Result:", result); // Console output
 
 // Semantic Structure
