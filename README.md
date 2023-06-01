@@ -5,10 +5,7 @@ JavaScript Structure Analysis
 
 
 
-the structure in form of lexical, syntactic,contextual and semantic structure
-
-ChatGPT
-Sure! Here's an example of a JavaScript program that demonstrates the lexical, syntactic, contextual, and semantic structures:
+the  lexical, syntactic, contextual, and semantic structures:
 
 javascript
 Copy code
