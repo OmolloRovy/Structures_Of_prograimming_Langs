@@ -38,3 +38,4 @@ Syntactic Structure: It comprises the organization of statements and expressions
 Contextual Structure: It represents the context in which the code is executed, including variable scope and function calls. In this example, the multiply function is defined in the global scope, and the multiply function is called with the variable x as an argument.
 
 Semantic Structure: It involves the meaning and interpretation of the code. The program checks if x is positive or negative, multiplies it by 2 using the multiply function, and logs the result to the console.
+# Python
