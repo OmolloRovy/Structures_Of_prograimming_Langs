@@ -9,7 +9,7 @@ def calculate_sum(a, b):
 
 num1 = 5
 num2 = 10
-# These are variable assignments with values 5 and 10
+# These are variable assignments with values 5 and 10 respectively 
 
 total = calculate_sum(num1, num2)
 # This is a function call to calculate_sum with arguments num1 and num2
